@@ -1,0 +1,46 @@
+.pagination {
+    display: flex;
+    margin-top: 40px;
+  }
+  ::v-deep .form-btn {
+    .el-form-item__content {
+      margin-left: 0 !important;
+    }
+  }
+ ::v-deep .tableHeaderCell {
+   .cell {
+     overflow: hidden;
+     text-overflow: ellipsis;
+     white-space: nowrap;
+    .item {
+      width: 85%;
+    }
+    .caret-wrapper {
+      width: 15%;
+    }
+   }
+ }
+ ::v-deep .el-alert__content {
+   width: 100% !important;
+ }
+ ::v-deep .el-table__fixed-right,::v-deep .el-table__fixed{
+  bottom: 0 !important;
+  height: 100% !important;
+ }
+   // 滚动条的宽度
+   ::v-deep ::-webkit-scrollbar {
+    width: 8px; // 横向滚动条
+    height: 8px; // 纵向滚动条  
+    // opacity: 0;
+  }
+  ::v-deep ::-webkit-scrollbar-track-piece {
+    background-color: transparent; //滚动槽
+    border-radius: 6px;
+  }
+  ::v-deep ::-webkit-scrollbar-thumb {
+      height: 12px;
+      background-color: rgba(144,147,153,.3);
+      border-radius: 6px;
+    }
+  
+  

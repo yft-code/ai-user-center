@@ -1,0 +1,219 @@
+{
+  "id": "2886708",
+  "name": "AI值守",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "25208122",
+      "name": "delete_fill",
+      "font_class": "delete_fill",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "25137130",
+      "name": "confirm_fill",
+      "font_class": "confirm_fill",
+      "unicode": "e6c2",
+      "unicode_decimal": 59074
+    },
+    {
+      "icon_id": "25137149",
+      "name": "up_line",
+      "font_class": "up_line",
+      "unicode": "e6d5",
+      "unicode_decimal": 59093
+    },
+    {
+      "icon_id": "25137150",
+      "name": "warming_circular",
+      "font_class": "warming_circular",
+      "unicode": "e6d6",
+      "unicode_decimal": 59094
+    },
+    {
+      "icon_id": "25137151",
+      "name": "warming_triangle",
+      "font_class": "warming_triangle",
+      "unicode": "e6d7",
+      "unicode_decimal": 59095
+    },
+    {
+      "icon_id": "25137123",
+      "name": "ai_line",
+      "font_class": "ai_line",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "25137124",
+      "name": "3D_line",
+      "font_class": "a-3D_line",
+      "unicode": "e6bc",
+      "unicode_decimal": 59068
+    },
+    {
+      "icon_id": "25137125",
+      "name": "calendar_line",
+      "font_class": "calendar_line",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    },
+    {
+      "icon_id": "25137126",
+      "name": "close_line",
+      "font_class": "close_line",
+      "unicode": "e6be",
+      "unicode_decimal": 59070
+    },
+    {
+      "icon_id": "25137127",
+      "name": "down_line",
+      "font_class": "down_line",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "25137128",
+      "name": "close_fill",
+      "font_class": "close_fill",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "25137129",
+      "name": "doubleleft_line",
+      "font_class": "doubleleft_line",
+      "unicode": "e6c1",
+      "unicode_decimal": 59073
+    },
+    {
+      "icon_id": "25137131",
+      "name": "doubleright_line",
+      "font_class": "doubleright_line",
+      "unicode": "e6c3",
+      "unicode_decimal": 59075
+    },
+    {
+      "icon_id": "25137132",
+      "name": "down_fill",
+      "font_class": "down_fill",
+      "unicode": "e6c4",
+      "unicode_decimal": 59076
+    },
+    {
+      "icon_id": "25137133",
+      "name": "more_ver",
+      "font_class": "more_ver",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    },
+    {
+      "icon_id": "25137134",
+      "name": "msg_fill",
+      "font_class": "msg_fill",
+      "unicode": "e6c6",
+      "unicode_decimal": 59078
+    },
+    {
+      "icon_id": "25137135",
+      "name": "more_tra",
+      "font_class": "more_tra",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    },
+    {
+      "icon_id": "25137136",
+      "name": "left_line",
+      "font_class": "left_line",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "25137137",
+      "name": "file_link_line",
+      "font_class": "file_link_line",
+      "unicode": "e6c9",
+      "unicode_decimal": 59081
+    },
+    {
+      "icon_id": "25137138",
+      "name": "file_line",
+      "font_class": "file_line",
+      "unicode": "e6ca",
+      "unicode_decimal": 59082
+    },
+    {
+      "icon_id": "25137139",
+      "name": "left_fill",
+      "font_class": "left_fill",
+      "unicode": "e6cb",
+      "unicode_decimal": 59083
+    },
+    {
+      "icon_id": "25137140",
+      "name": "multchoice_unckecked_line",
+      "font_class": "multchoice_unckecked_line",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "25137141",
+      "name": "richtext",
+      "font_class": "richtext",
+      "unicode": "e6cd",
+      "unicode_decimal": 59085
+    },
+    {
+      "icon_id": "25137142",
+      "name": "right_line",
+      "font_class": "right_line",
+      "unicode": "e6ce",
+      "unicode_decimal": 59086
+    },
+    {
+      "icon_id": "25137143",
+      "name": "singlechoice_selected_fill",
+      "font_class": "singlechoice_selected_fill",
+      "unicode": "e6cf",
+      "unicode_decimal": 59087
+    },
+    {
+      "icon_id": "25137144",
+      "name": "required_fill",
+      "font_class": "required_fill",
+      "unicode": "e6d0",
+      "unicode_decimal": 59088
+    },
+    {
+      "icon_id": "25137145",
+      "name": "singlechoice_unselected_line",
+      "font_class": "singlechoice_unselected_line",
+      "unicode": "e6d1",
+      "unicode_decimal": 59089
+    },
+    {
+      "icon_id": "25137146",
+      "name": "right_fill",
+      "font_class": "right_fill",
+      "unicode": "e6d2",
+      "unicode_decimal": 59090
+    },
+    {
+      "icon_id": "25137147",
+      "name": "multchoice_checked_confirm_fill",
+      "font_class": "multchoice_checked_confirm_fill",
+      "unicode": "e6d3",
+      "unicode_decimal": 59091
+    },
+    {
+      "icon_id": "25137148",
+      "name": "up_fill",
+      "font_class": "up_fill",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    }
+  ]
+}
